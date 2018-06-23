@@ -1,3 +1,5 @@
+# Code for Simulations in Section 6.3
+
 library(tables)
 booktabs()
 source("sim.data.R")
