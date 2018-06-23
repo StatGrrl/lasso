@@ -1,3 +1,4 @@
+# Code for Application in Chapter 7
 source("estimation.R")
 source("resample.R")
 source("plots.R")
