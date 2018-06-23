@@ -1,12 +1,13 @@
 # lasso
 R code for figures, simulations and application in my Masters thesis and corresponding conference paper on the LASSO and other shrinkage methods
 
-**Masters thesis:
+**Masters thesis:**
 
-*Full-text available at 
+*Full-text available at*
+
 https://www.researchgate.net/publication/325929497_LASSO_-_Simultaneous_shrinkage_and_selection_via_the_L1_norm
 
-*R Functions
+*R Functions*
 
 - color.r
 - estimation.R
