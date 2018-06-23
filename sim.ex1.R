@@ -1,3 +1,5 @@
+# Code for Simulations in Section 6.2
+
 # DATA
 library(tables)
 source("sim.data.R")
