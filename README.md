@@ -3,9 +3,7 @@ R code for figures, simulations and application in my Masters thesis and corresp
 
 **Masters thesis:**
 
-*Full-text available at*
-
-https://www.researchgate.net/publication/325929497_LASSO_-_Simultaneous_shrinkage_and_selection_via_the_L1_norm
+dissertation.pdf
 
 *R Functions*
 
@@ -34,9 +32,9 @@ https://www.researchgate.net/publication/325929497_LASSO_-_Simultaneous_shrinkag
 
 **Conference paper:**
 
-*Full-text avaible at*
+article.pdf
 
-https://www.researchgate.net/publication/287727878_LASSO_Tuning_Parameter_Selection
+*R code*
 
 - article.boot.se.R
 - article.cv.perc.R
